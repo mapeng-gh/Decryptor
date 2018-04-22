@@ -1,4 +1,4 @@
-package util;
+package com.huasheng.decryptor.util;
 
 import java.io.ByteArrayOutputStream;
 import java.security.KeyFactory;
